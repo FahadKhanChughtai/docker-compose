@@ -26,5 +26,4 @@ services:
       MYSQL_PASSWORD: 'npm'
     volumes:
       - ./data/mysql:/var/lib/mysql
-Bring up your stack
-docker-compose up -d
+
